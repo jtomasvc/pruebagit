@@ -8,3 +8,31 @@ p {
 body {
     background-color: #DEFAF8;
 }
+
+.nav-link {
+    color: black;
+    font-weight: bold;
+}
+
+.nav-link:hover {
+    color: #3A3AF0;
+    font-size: 18px;
+    transition: 1s ease;
+}
+
+.footer {
+    background-color: #FA3514;
+}
+
+.estilos-footer {
+    color: white;
+    margin-top: 10px;
+    padding: 20px;
+    margin-left: 26%;
+}
+
+.estilos-titulo {
+    color: #3A3AF0;
+    font-weight: bold;
+    font-size: 50px;
+}
